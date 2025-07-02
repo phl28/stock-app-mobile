@@ -9,5 +9,6 @@ dist/
 
 # IDE
 .vscode/*
+.cursor/*
 !.vscode/extensions.json
 .idea
